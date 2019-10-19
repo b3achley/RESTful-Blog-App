@@ -1,4 +1,3 @@
 # RESTful-Blog-App
----
-permalink: /app.js
----
+
+<https://mighty-earth-87552.herokuapp.com>
